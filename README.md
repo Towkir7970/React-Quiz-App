@@ -1,7 +1,5 @@
 # Simple React Quiz App
 
-![React Quiz App](quiz_app_screenshot.png)
-
 The Simple React Quiz App is a web application that allows users to take quizzes on various topics. It's built using React.js and is deployed on Vercel. This project was inspired by the tutorial series on the "Learn With Sumit" YouTube channel: [YouTube Playlist](https://www.youtube.com/watch?v=W3zMJxCUJAA&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr&index=30).
 
 ## 📝 Tutorial Credits
