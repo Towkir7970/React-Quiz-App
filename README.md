@@ -4,7 +4,7 @@ The Simple React Quiz App is a web application that allows users to take quizzes
 
 ## 📝 Tutorial Credits
 
-This project is based on the tutorial by [Learn With Sumit](https://www.youtube.com/channel/UCDY_7jYzrs0Pjqh5wdklfAg). The tutorial playlist for this project can be found [here](https://www.youtube.com/watch?v=W3zMJxCUJAA&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr&index=30).
+This project is based on the tutorial by [Learn With Sumit](https://www.youtube.com/@LearnwithSumit). The tutorial playlist for this project can be found [here](https://www.youtube.com/watch?v=W3zMJxCUJAA&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr&index=30).
 
 ## 🚀 Features
 
