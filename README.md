@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+# Simple React Quiz App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![React Quiz App](quiz_app_screenshot.png)
 
-## Available Scripts
+The Simple React Quiz App is a web application that allows users to take quizzes on various topics. It's built using React.js and is deployed on Vercel. This project was inspired by the tutorial series on the "Learn With Sumit" YouTube channel: [YouTube Playlist](https://www.youtube.com/watch?v=W3zMJxCUJAA&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr&index=30).
 
-In the project directory, you can run:
+## 📝 Tutorial Credits
 
-### `npm start`
+This project is based on the tutorial by [Learn With Sumit](https://www.youtube.com/channel/UCDY_7jYzrs0Pjqh5wdklfAg). The tutorial playlist for this project can be found [here](https://www.youtube.com/watch?v=W3zMJxCUJAA&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr&index=30).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Users can select a quiz category.
+- Each quiz consists of multiple-choice questions.
+- Users receive instant feedback on their answers.
+- At the end of the quiz, the user's score is displayed.
+- Users can Login and Signup
+- Users must be logged in to take quiz
+- Signup and Login authentication are done using Firebase
+- Quiz questions and answers are fetched from Firebase
 
-### `npm test`
+## 🛠️ Technologies Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- React.js
+- CSS
+- React Hooks
+- Firebase
 
-### `npm run build`
+## 🚀 Live Demo
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Check out the live demo of the Simple React Quiz App deployed on Vercel: [Quiz App Demo](https://quiz-app-eight-ecru.vercel.app/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 📷 Screenshots
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Quiz Home](https://github.com/Towkir7970/React-Quiz-App/blob/master/screenshots/homepage.png)
+![Quiz Question](https://github.com/Towkir7970/React-Quiz-App/blob/master/screenshots/quiz.png)
+![Quiz Login](https://github.com/Towkir7970/React-Quiz-App/blob/master/screenshots/login.png)
 
-### `npm run eject`
+## 📝 Installation and Setup
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Clone the repository:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+git clone https://github.com/Towkir7970/React-Quiz-App.git
+cd react-quiz-app
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. Install the required dependencies:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+npm install
+```
 
-## Learn More
+3. Set up your Firebase environment variables and Start the development server:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+npm start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+4. Open the app in your web browser at [http://localhost:3000](http://localhost:3000).
 
-### Code Splitting
+## 📄 License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This project is licensed under the [MIT License](LICENSE).
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
